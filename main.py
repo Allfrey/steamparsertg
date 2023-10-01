@@ -2,7 +2,7 @@ import telebot
 import requests
 from bs4 import BeautifulSoup
 
-bot = telebot.TeleBot('6401526019:AAHxDiEj7K-APzuZG6QANZW1abadgnlWAY8')
+bot = telebot.TeleBot('you token')
 translations = {
     'Currently Online': 'В сети',
     'Currently In-Game': 'В игре',
